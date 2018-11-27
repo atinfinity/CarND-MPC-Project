@@ -38,6 +38,10 @@ Self-Driving Car Engineer Nanodegree Program
 3. Compile: `cmake .. && make`
 4. Run it: `./mpc`.
 
+## Materials
+### Report
+- [writeup.md](https://github.com/atinfinity/CarND-MPC-Project/blob/master/writeup.md)
+
 ## Tips
 
 1. It's recommended to test the MPC on basic examples to see if your implementation behaves as desired. One possible example
